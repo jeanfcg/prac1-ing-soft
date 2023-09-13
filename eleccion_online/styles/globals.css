@@ -1,0 +1,12 @@
+.home-link {
+    font-size: 1.5rem;
+    color: #007bff;
+    margin-right: 20px;
+    cursor: pointer;
+    text-decoration: none;
+
+}
+
+.home-link:hover {
+    text-decoration: underline;
+}
